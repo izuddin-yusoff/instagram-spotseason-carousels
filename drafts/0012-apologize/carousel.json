@@ -1,0 +1,53 @@
+{
+  "type": "useful",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "How to apologize *so it lands*",
+    "sub": "5 parts of an apology that helps repair."
+  },
+  "points": [
+    {
+      "heading": "Name exactly what you did",
+      "body": "“Sorry for everything” is too big to take in. Be specific about the one thing.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’m sorry I snapped at you in front of the kids.”"
+    },
+    {
+      "heading": "Leave out the “but”",
+      "body": "Whatever comes after “but” erases what came before it. Your reasons can wait for another talk.",
+      "panel_label": "TRY THIS",
+      "panel": "End the sentence at “I’m sorry.”"
+    },
+    {
+      "heading": "Say how it affected him",
+      "body": "It shows you’ve thought about his side, not only your own guilt.",
+      "panel_label": "TRY SAYING",
+      "panel": "“That must have been embarrassing, and you didn’t deserve it.”"
+    },
+    {
+      "heading": "Say what you’ll do differently",
+      "body": "Keep it small and real. A promise you can keep is worth more than a grand one.",
+      "panel_label": "TRY SAYING",
+      "panel": "“Next time I’ll step away before I raise my voice.”"
+    },
+    {
+      "heading": "Give him time",
+      "body": "An apology is an offer, and he gets to take it at his own pace.",
+      "panel_label": "TRY SAYING",
+      "panel": "“You don’t have to say anything right now.”"
+    }
+  ],
+  "close": {
+    "save": "Save this for when you need it.",
+    "safety": true
+  },
+  "caption": "A good apology is one of the most useful skills in a marriage, and few of us were ever taught how to make one.\n\nThis isn’t about taking all the blame or apologizing for things that weren’t yours. It’s about owning your part clearly, so repair can start. Here are the five parts.\n\nSave this for when you need it, and follow @spotseason for more.",
+  "hashtags": [
+    "#marriage",
+    "#marriageadvice",
+    "#apology",
+    "#marriagerepair",
+    "#communicationinmarriage",
+    "#reconnect"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "4 signs it’s time for *a plan*, not just more trying",
+    "sub": "When effort alone isn’t moving things."
+  },
+  "points": [
+    {
+      "heading": "You’ve tried, and you’re tired",
+      "body": "You’ve had the talks and made the promises. Effort without a direction wears anyone down.",
+      "panel_label": "TRY THIS",
+      "panel": "Write down what you’ve already tried."
+    },
+    {
+      "heading": "You don’t know where to begin",
+      "body": "Everything feels tangled together. A starting point matters more than a perfect answer.",
+      "panel_label": "TRY THIS",
+      "panel": "Pick the one thing that hurts most right now."
+    },
+    {
+      "heading": "Talks keep ending the same way",
+      "body": "If every conversation lands in the same place, you may need a different way in.",
+      "panel_label": "TRY THIS",
+      "panel": "Notice the moment your talks usually turn."
+    },
+    {
+      "heading": "You want steps, not slogans",
+      "body": "“Communicate more” is true and not very helpful. You want to know what to actually do on a Tuesday.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What would one small step look like this week?”"
+    }
+  ],
+  "resource": {
+    "name": "Save The Marriage System",
+    "covers": "A structured starting point for communication and reconnection."
+  },
+  "close": {
+    "safety": true
+  },
+  "caption": "Trying harder works until it doesn’t. If you’ve been putting in the effort and things still feel stuck, the problem may not be effort. It may be the lack of a map.\n\nIf that sounds familiar, there’s a resource at the link in bio that offers a structured starting point for communication and reconnection. It can’t promise how anyone else will respond, and no program can. It can give you somewhere to begin.\n\nFollow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#marriagehelp",
+    "#marriageadvice",
+    "#savemymarriage",
+    "#reconnect",
+    "#wifelife"
+  ]
+}

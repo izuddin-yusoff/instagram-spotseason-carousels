@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "CONNECTION",
+  "cover": {
+    "headline": "4 things *long-term closeness* is built on",
+    "sub": "None of them is a grand gesture."
+  },
+  "points": [
+    {
+      "heading": "Feeling known",
+      "body": "Closeness grows when you keep learning each other, even after years together.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What’s something about you I might not know yet?”"
+    },
+    {
+      "heading": "Feeling chosen",
+      "body": "Small, everyday signs that you’d pick each other again.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’d still choose you.”"
+    },
+    {
+      "heading": "Feeling safe to speak",
+      "body": "Honest words need a soft landing. How you respond shapes whether he tells you next time.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’m glad you told me, even though it was hard to hear.”"
+    },
+    {
+      "heading": "Your own steady ground",
+      "body": "Feeling steady in yourself makes it easier to reach out without bracing for the answer.",
+      "panel_label": "TRY THIS",
+      "panel": "Do one thing this week that is just for you."
+    }
+  ],
+  "resource": {
+    "name": "The Devotion System",
+    "covers": "Guidance for confidence, communication, and long-term closeness."
+  },
+  "close": {
+    "safety": false
+  },
+  "caption": "Lasting closeness is less mysterious than it looks. It’s made of a few plain things, practiced over a long time.\n\nIf you’d like guidance on confidence, communication, and long-term closeness, there’s a resource for that at the link in bio. It’s a place to start, and no resource can promise how another person will respond.\n\nFollow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#marriagegoals",
+    "#emotionalconnection",
+    "#lastinglove",
+    "#reconnect",
+    "#marriedlife"
+  ]
+}
