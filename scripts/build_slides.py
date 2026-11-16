@@ -148,7 +148,7 @@ def cover_slide(c, total):
     plain = headline.replace("*", "")
     size = 112 if len(plain) <= 40 else 96 if len(plain) <= 58 else 84
     body = (
-        f'<h1 style="margin: 0; font-family: {SERIF}; font-weight: 700; font-size: {size}px; '
+        f'<h1 style="margin: 0; text-wrap: balance; font-family: {SERIF}; font-weight: 700; font-size: {size}px; '
         f'line-height: 1.08; letter-spacing: -1px">{emph(headline, DEEP)}</h1>'
         f'<p style="margin: 0; font-size: 44px; line-height: 1.35; color: {MUTED}; '
         f'max-width: 780px">{esc(c["cover"]["sub"])}</p>'
@@ -181,7 +181,7 @@ def point_slide(c, index, total):
     parts = [
         f'<div style="font-family: {SERIF}; font-weight: 700; font-size: {num_size}px; '
         f'line-height: 0.9; color: {ROSE}">{index + 1}</div>',
-        f'<h2 style="margin: 0; font-family: {SERIF}; font-weight: 700; font-size: {h_size}px; '
+        f'<h2 style="margin: 0; text-wrap: balance; font-family: {SERIF}; font-weight: 700; font-size: {h_size}px; '
         f'line-height: 1.1">{esc(heading)}</h2>',
         f'<p style="margin: 0; font-size: {b_size}px; line-height: 1.4">{esc(p["body"])}</p>',
     ]
@@ -203,7 +203,7 @@ def resource_slide(c, n, total):
     body = (
         f'<div style="font-size: 30px; font-weight: 700; letter-spacing: 5px; color: {DEEP}">'
         "A RESOURCE FOR THIS</div>"
-        f'<h2 style="margin: 0; font-family: {SERIF}; font-weight: 700; font-size: 84px; '
+        f'<h2 style="margin: 0; text-wrap: balance; font-family: {SERIF}; font-weight: 700; font-size: 84px; '
         f'line-height: 1.1">{esc(r["name"])}</h2>'
         f'<p style="margin: 0; font-size: 44px; line-height: 1.4">{esc(r["covers"])}</p>'
         f'<p style="margin: 0; font-size: 36px; line-height: 1.4; color: {MUTED}">'
@@ -240,7 +240,7 @@ def close_slide(c, total):
         rows.append(row("save", "Save this", save[len("Save this"):].strip()))
     rows.append(row("follow", f"Follow {HANDLE}", "for one small step at a time."))
     parts = [
-        f'<h2 style="margin: 0; font-family: {SERIF}; font-weight: 700; font-size: 100px; '
+        f'<h2 style="margin: 0; text-wrap: balance; font-family: {SERIF}; font-weight: 700; font-size: 100px; '
         f'line-height: 1.1; letter-spacing: -1px">{ANCHOR}</h2>',
         '<div style="display: flex; flex-direction: column; gap: 20px">' + "".join(rows) + "</div>",
     ]
