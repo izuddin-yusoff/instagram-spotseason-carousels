@@ -57,8 +57,9 @@ Open the **Actions** tab, choose **Publish carousel**, then **Run workflow**.
   `IG_ACCESS_TOKEN`. It is never written to a file or printed in a log.
 - This repository is public because Instagram fetches each slide from a
   public address. Put nothing private in it.
-- GitHub may start scheduled jobs late when it is busy, so posts can land some
-  minutes after the hour. A slot stays open for three hours.
+- GitHub may start scheduled jobs late, or skip a wake-up, when it is busy.
+  The job wakes every 20 minutes through each slot, and a slot stays open
+  for three hours, so posts can land up to a few hours after the slot time.
 - GitHub switches off schedules in a public repository after 60 days without
   activity. Pushing a new batch counts as activity.
 - If a post goes live but the job fails before recording it, the same

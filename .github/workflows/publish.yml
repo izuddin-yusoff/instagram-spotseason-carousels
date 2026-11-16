@@ -3,10 +3,11 @@ name: Publish carousel
 on:
   schedule:
     # Posting slots are 8:00 am and 8:00 pm US Eastern. GitHub's clock is UTC
-    # and ignores daylight saving, so the job wakes at each hour that could
-    # fall inside a slot. scripts/publish.py decides whether a slot is open
+    # and ignores daylight saving. GitHub also skips some scheduled wake-ups
+    # when it is busy, so the job wakes every 20 minutes through each slot's
+    # three-hour window. scripts/publish.py decides whether a slot is open
     # and makes sure each slot is used only once.
-    - cron: "7 0-2,12-14 * * *"
+    - cron: "7,27,47 0-3,12-15 * * *"
   workflow_dispatch:
     inputs:
       mode:
