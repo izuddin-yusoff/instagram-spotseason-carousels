@@ -1,0 +1,42 @@
+name: Render draft slides
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "drafts/**/slides/*.html"
+      - "scripts/render.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-drafts
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: python3 -m pip install --user --quiet pillow
+
+      - name: Render every draft slide to JPEG
+        run: python3 scripts/render.py
+
+      - name: Save the rendered slides
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A drafts
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Render draft slides"
+            git pull --rebase
+            git push
+          fi

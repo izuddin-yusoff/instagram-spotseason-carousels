@@ -31,6 +31,14 @@ queue/
   hashtags at most.
 - Names use only letters, digits, dots, dashes and underscores.
 
+## Drafts
+
+New carousels start in `drafts/`, which is never posted from. Each draft
+holds its slide designs in `slides/` plus a `caption.txt`. When slide designs
+are pushed, the **Render draft slides** job turns them into 1080 x 1350 JPEGs
+beside them. Once the owner approves a draft, its JPEGs and caption move to
+`queue/`.
+
 ## Pausing
 
 Add an empty file named `PAUSED` to the top of the repository. Nothing posts

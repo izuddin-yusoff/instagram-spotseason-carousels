@@ -52,5 +52,6 @@ jobs:
             echo "Nothing to record."
           else
             git commit -m "Record posted carousel"
+            git pull --rebase
             git push
           fi
