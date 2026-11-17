@@ -8,6 +8,11 @@ on:
     # three-hour window. scripts/publish.py decides whether a slot is open
     # and makes sure each slot is used only once.
     - cron: "7,27,47 0-3,12-15 * * *"
+  # The main timer: an outside service (cron-job.org) sends a "post-slot"
+  # event at each posting time, because GitHub's own schedule above often
+  # fires hours late or not at all. The schedule stays as a backup.
+  repository_dispatch:
+    types: [post-slot]
   workflow_dispatch:
     inputs:
       mode:
