@@ -1,0 +1,53 @@
+{
+  "type": "useful",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "Rebuilding trust after *small broken promises*",
+    "sub": "5 ways to make your word count again."
+  },
+  "points": [
+    {
+      "heading": "Small things add up",
+      "body": "Forgetting to call, missing a pickup. Each one alone is minor. Together, they wear trust down.",
+      "panel_label": "TRY THIS",
+      "panel": "Notice which small promises matter most to each of you."
+    },
+    {
+      "heading": "Promise less, keep more",
+      "body": "Saying “I’ll try” honestly is better than a confident yes you can’t keep.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’m not sure I can, but I’ll let you know by noon.”"
+    },
+    {
+      "heading": "Name it when you slip",
+      "body": "Owning a missed promise quickly keeps it from becoming a pattern.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I said I’d call and I didn’t. I’m sorry.”"
+    },
+    {
+      "heading": "Ask for what you need clearly",
+      "body": "If his slips hurt, say so calmly, without a list of every past one.",
+      "panel_label": "TRY SAYING",
+      "panel": "“When plans change last minute, I feel forgotten. Can you text me?”"
+    },
+    {
+      "heading": "Notice when promises are kept",
+      "body": "Rebuilding trust is easier when progress is seen.",
+      "panel_label": "TRY SAYING",
+      "panel": "“You remembered. That meant a lot.”"
+    }
+  ],
+  "close": {
+    "save": "Save this for a fresh start.",
+    "safety": false
+  },
+  "caption": "Trust usually isn’t broken by one big moment. More often, it’s worn down by small promises that slip through the cracks.\n\nThe good news is that it can be rebuilt the same way: one small, kept promise at a time.\n\nSave this, and follow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#trust",
+    "#marriagerepair",
+    "#marriageadvice",
+    "#relationshiptips",
+    "#reconnect"
+  ]
+}

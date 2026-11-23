@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "DISTANCE",
+  "cover": {
+    "headline": "When he says *he needs space*",
+    "sub": "4 steadier ways through the first days."
+  },
+  "points": [
+    {
+      "heading": "Steady yourself first",
+      "body": "The urge to fix everything at once is strong. Decisions made in panic rarely help.",
+      "panel_label": "TRY THIS",
+      "panel": "Write down what you’re feeling before you send any message."
+    },
+    {
+      "heading": "Don’t chase",
+      "body": "Repeated calls and long texts usually push people further away.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’ll give you the space you asked for. I’m here when you’re ready.”"
+    },
+    {
+      "heading": "Lean on your people",
+      "body": "You need support too, and not only from him.",
+      "panel_label": "TRY THIS",
+      "panel": "Tell one trusted friend what’s going on this week."
+    },
+    {
+      "heading": "Think about what you want",
+      "body": "Space is a chance for you to reflect too, not only to wait.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What do I need in this relationship to feel okay?”"
+    }
+  ],
+  "resource": {
+    "name": "The Ex Factor 2.0",
+    "covers": "For women facing emotional distance, separation, or a serious rupture."
+  },
+  "close": {
+    "safety": true
+  },
+  "caption": "“I need some space” can be one of the hardest things to hear from someone you love.\n\nThe first days matter, mostly for you. These four steps help you stay steady instead of reacting from fear. If you’re facing emotional distance, separation, or a serious rupture, there’s a resource for that at the link in bio. It’s a place to start, and no resource can promise what another person will decide.\n\nFollow @spotseason for more.",
+  "hashtags": [
+    "#marriage",
+    "#separation",
+    "#marriagehelp",
+    "#emotionaldistance",
+    "#heartbreak",
+    "#marriagesupport"
+  ]
+}

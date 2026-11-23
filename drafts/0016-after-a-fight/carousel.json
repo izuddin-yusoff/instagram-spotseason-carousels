@@ -1,0 +1,53 @@
+{
+  "type": "useful",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "The first hour *after a fight*",
+    "sub": "5 small moves that make repair easier."
+  },
+  "points": [
+    {
+      "heading": "Let your body settle first",
+      "body": "A racing heart makes every word sound sharper. Give yourself twenty minutes before trying again.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I want to sort this out. Can we talk after I’ve calmed down?”"
+    },
+    {
+      "heading": "Say when you’ll come back",
+      "body": "A pause feels safer when it has an end. It tells him you’re stepping away, not leaving.",
+      "panel_label": "TRY SAYING",
+      "panel": "“Give me until after dinner, then let’s try again.”"
+    },
+    {
+      "heading": "Start with one soft sentence",
+      "body": "The first words set the tone for the rest. Lead with what you want, not what went wrong.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I don’t like being on opposite sides with you.”"
+    },
+    {
+      "heading": "Own one piece",
+      "body": "You don’t have to take all the blame. One honest piece is enough to open the door.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I raised my voice, and I’m sorry for that part.”"
+    },
+    {
+      "heading": "Leave the rest for later",
+      "body": "Not everything needs solving tonight. Feeling close again can come first.",
+      "panel_label": "TRY THIS",
+      "panel": "Agree on a time to finish the talk, then do something easy together."
+    }
+  ],
+  "close": {
+    "save": "Save this for the next hard evening.",
+    "safety": true
+  },
+  "caption": "Most of us know how to argue. Fewer of us were shown what to do in the hour after.\n\nThat hour matters. It’s when a fight either hardens into silence or softens into repair. These five moves won’t settle every disagreement, but they make it easier to find each other again.\n\nSave this for the next hard evening, and follow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#marriageadvice",
+    "#conflictresolution",
+    "#marriagerepair",
+    "#communicationinmarriage",
+    "#reconnect"
+  ]
+}

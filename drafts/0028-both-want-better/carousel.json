@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "4 starting points when *you both want better*",
+    "sub": "Where to begin when you’re ready."
+  },
+  "points": [
+    {
+      "heading": "Agree on the goal",
+      "body": "Saying out loud that you both want things to improve is a real start.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I want us to feel closer. Do you want that too?”"
+    },
+    {
+      "heading": "Pick one thing to work on",
+      "body": "Trying to fix everything at once usually leads to fixing nothing.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What’s one thing that would make the biggest difference for you?”"
+    },
+    {
+      "heading": "Set a regular check-in",
+      "body": "A short weekly talk keeps progress from fading.",
+      "panel_label": "TRY THIS",
+      "panel": "Sunday evening, fifteen minutes: what went well, what to try next."
+    },
+    {
+      "heading": "Use a structure",
+      "body": "When it’s hard to know where to start, a guided plan can help.",
+      "panel_label": "TRY THIS",
+      "panel": "Choose a resource you can both work through together."
+    }
+  ],
+  "resource": {
+    "name": "Save The Marriage System",
+    "covers": "A structured starting point for communication and reconnection."
+  },
+  "close": {
+    "safety": true
+  },
+  "caption": "When you both want things to get better but don’t know where to start, it’s easy to stay stuck in good intentions.\n\nThese four starting points turn wanting into doing. If you’d like a structured starting point for communication and reconnection, there’s a resource at the link in bio. It’s a place to begin, and no resource can promise how another person will respond.\n\nFollow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#marriagerepair",
+    "#marriagehelp",
+    "#communicationinmarriage",
+    "#reconnect",
+    "#marriagegoals"
+  ]
+}
