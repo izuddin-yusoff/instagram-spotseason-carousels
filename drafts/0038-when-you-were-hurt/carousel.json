@@ -1,0 +1,53 @@
+{
+  "type": "useful",
+  "label": "MARRIAGE REPAIR",
+  "cover": {
+    "headline": "When *you’re the one* who was hurt",
+    "sub": "5 steps toward repair, at your pace."
+  },
+  "points": [
+    {
+      "heading": "Let yourself feel it",
+      "body": "Hurt that’s pushed down tends to come back later.",
+      "panel_label": "TRY SAYING",
+      "panel": "“That really hurt, and I need a moment.”"
+    },
+    {
+      "heading": "Say what happened, calmly",
+      "body": "Describe the moment, not his whole character.",
+      "panel_label": "TRY SAYING",
+      "panel": "“When you said that at dinner, I felt embarrassed.”"
+    },
+    {
+      "heading": "Say what would help",
+      "body": "Repair is easier when the other person knows what you need.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’d like an apology, and for us to talk about it.”"
+    },
+    {
+      "heading": "Notice real effort",
+      "body": "Repair is a process. Small steps count.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I noticed you tried tonight. Thank you.”"
+    },
+    {
+      "heading": "Take the time you need",
+      "body": "Forgiveness isn’t a switch. It can come slowly.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I’m working on it. I need a little more time.”"
+    }
+  ],
+  "close": {
+    "save": "Save this for a hard day.",
+    "safety": true
+  },
+  "caption": "Most advice about repair is for the person who caused the hurt. But what about when you’re the one who was hurt?\n\nYou’re allowed to feel it, name it, and ask for what you need. These five steps help you move toward repair at a pace that feels right, without pretending it didn’t matter.\n\nSave this for a hard day, and follow @spotseason for more.",
+  "hashtags": [
+    "#marriage",
+    "#marriagerepair",
+    "#emotionalhealing",
+    "#communicationinmarriage",
+    "#marriageadvice",
+    "#reconnect"
+  ]
+}

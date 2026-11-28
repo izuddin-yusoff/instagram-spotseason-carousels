@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "AFFECTION",
+  "cover": {
+    "headline": "4 questions that help you *understand him better*",
+    "sub": "Curiosity is a kind of closeness."
+  },
+  "points": [
+    {
+      "heading": "What’s been on your mind?",
+      "body": "An open question invites more than “fine.”",
+      "panel_label": "TRY ASKING",
+      "panel": "“What’s been on your mind this week?”"
+    },
+    {
+      "heading": "When do you feel most appreciated?",
+      "body": "Everyone feels loved in slightly different ways.",
+      "panel_label": "TRY ASKING",
+      "panel": "“When do you feel most appreciated by me?”"
+    },
+    {
+      "heading": "What’s stressing you right now?",
+      "body": "Knowing his pressures helps you avoid misreading his mood.",
+      "panel_label": "TRY ASKING",
+      "panel": "“Is anything weighing on you lately?”"
+    },
+    {
+      "heading": "What would make this week better?",
+      "body": "Small, practical, and easy to act on.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What’s one thing that would make this week easier for you?”"
+    }
+  ],
+  "resource": {
+    "name": "His Secret Obsession",
+    "covers": "Ideas for understanding attraction and emotional connection."
+  },
+  "close": {
+    "safety": false
+  },
+  "caption": "It’s easy to assume we know our partner, especially after years together. But people keep changing.\n\nThese four questions open the door to understanding him a little better. If you’d like ideas for understanding attraction and emotional connection, there’s a resource at the link in bio. It’s a place to start, and no resource can promise how another person will feel.\n\nFollow @spotseason for more.",
+  "hashtags": [
+    "#marriage",
+    "#emotionalconnection",
+    "#communicationinmarriage",
+    "#marriageadvice",
+    "#reconnect",
+    "#romance"
+  ]
+}

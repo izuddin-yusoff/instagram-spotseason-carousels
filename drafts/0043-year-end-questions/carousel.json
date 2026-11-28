@@ -1,0 +1,53 @@
+{
+  "type": "useful",
+  "label": "CONNECTION",
+  "cover": {
+    "headline": "5 questions to ask each other *before the year ends*",
+    "sub": "A gentle look back, together."
+  },
+  "points": [
+    {
+      "heading": "What was our best moment?",
+      "body": "Start with the good. It sets a warm tone.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What was your favorite moment of ours this year?”"
+    },
+    {
+      "heading": "What was hard?",
+      "body": "Naming hard times together makes them lighter.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What was the hardest part of this year for you?”"
+    },
+    {
+      "heading": "What did we handle well?",
+      "body": "Celebrate the ways you showed up for each other.",
+      "panel_label": "TRY ASKING",
+      "panel": "“When did you feel we were a good team?”"
+    },
+    {
+      "heading": "What do we want more of?",
+      "body": "Look ahead with hope, not resolutions.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What would you like more of next year, for us?”"
+    },
+    {
+      "heading": "What can I do for you?",
+      "body": "End with care.",
+      "panel_label": "TRY ASKING",
+      "panel": "“Is there one thing I could do that would really help you next year?”"
+    }
+  ],
+  "close": {
+    "save": "Save this for a quiet evening.",
+    "safety": false
+  },
+  "caption": "The end of the year is a natural moment to pause and look back, together.\n\nThese five questions help you remember the good, name the hard, and choose what you want more of next year. Pour a drink, put your phones away, and take your time.\n\nSave this for a quiet evening, and follow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#yearinreview",
+    "#marriagegoals",
+    "#reconnect",
+    "#marriedlife",
+    "#emotionalconnection"
+  ]
+}

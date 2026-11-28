@@ -1,0 +1,50 @@
+{
+  "type": "promo",
+  "label": "NEW PATTERNS",
+  "cover": {
+    "headline": "4 signs you’re stuck *in a pattern*, not a problem",
+    "sub": "When the same moments keep going wrong."
+  },
+  "points": [
+    {
+      "heading": "The same fight, different topic",
+      "body": "Dishes, money, or plans, but it always ends the same way.",
+      "panel_label": "TRY ASKING",
+      "panel": "“What do our arguments usually feel like, no matter the topic?”"
+    },
+    {
+      "heading": "You can predict the next line",
+      "body": "You both know the script before it starts.",
+      "panel_label": "TRY THIS",
+      "panel": "Notice the moment the script begins, and pause there."
+    },
+    {
+      "heading": "Fixing the topic doesn’t help",
+      "body": "You solve one issue, and the feeling returns elsewhere.",
+      "panel_label": "TRY SAYING",
+      "panel": "“Maybe it’s not about the dishes. Can we talk about what’s underneath?”"
+    },
+    {
+      "heading": "You both feel unheard",
+      "body": "Each of you is defending, and nobody feels understood.",
+      "panel_label": "TRY SAYING",
+      "panel": "“I want to understand your side first.”"
+    }
+  ],
+  "resource": {
+    "name": "Relationship Rewrite Method",
+    "covers": "Tools for looking at conflict, distance, and communication differently."
+  },
+  "close": {
+    "safety": true
+  },
+  "caption": "Sometimes the problem in a marriage isn’t the topic you argue about. It’s the pattern you both fall into every time.\n\nNoticing the pattern is the first step to changing it. If you’d like tools for looking at conflict, distance, and communication differently, there’s a resource at the link in bio. It’s a place to start, and no resource can promise how another person will respond.\n\nFollow @spotseason for more small steps.",
+  "hashtags": [
+    "#marriage",
+    "#conflictresolution",
+    "#relationshippatterns",
+    "#communicationinmarriage",
+    "#marriagehelp",
+    "#reconnect"
+  ]
+}
